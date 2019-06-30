@@ -15,20 +15,27 @@
  ([preview](blue_button_rush/blue_button_rush.md)) 
  ([image](blue_button_rush/blue_button_rush.jpg))
 
+**Change my Mind** - A parody image of the youtube series "Change My Mind" by [Steven Crowder](https://www.youtube.com/channel/UCIveFvW-ARp_B_RckhweNJw). It usually has a socially controvertial statement on the top half of the table and the words "Change my mind" on the bottom. 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/change_my_mind/change_my_mind.md)) 
+ ([preview](change_my_mind/change_my_mind.md)) 
+ ([image](change_my_mind/change_my_mind.jpeg))
+
 **Complex Mathematics** - A meme in which a lady is looking around doing complex mathematics.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/complex_mathematics/complex_mathematics.md)) 
  ([preview](complex_mathematics/complex_mathematics.md)) 
  ([image](complex_mathematics/complex_mathematics.jpg))
 
-**Drakeposting** - A 2-column 2-row image. In the left two squares are 'Drake', a musician, in different states of how happy he is. 
+**Drakeposting** - A 2-column 2-row image. In the left two squares are 'Drake', a musician, in different states of how happy he is.
+([image](drake/drake.jpg))
+No table:
+([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/drake/drake_no_table.md)) 
+ ([preview](drake/drake_no_table.md)) 
+Concise:
+([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/drake/drake_table_concise.md)) 
+ ([preview](drake/drake_table_concise.md)) 
+Detailed:
 ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/drake/drake_table_detailed.md)) 
- ([preview](drake/drake.md)) 
- ([image](drake/drake.jpg))
-
-**Change my Mind** - A parody image of the youtube series "Change My Mind" by [Steven Crowder](https://www.youtube.com/channel/UCIveFvW-ARp_B_RckhweNJw). It usually has a socially controvertial statement on the top half of the table and the words "Change my mind" on the bottom. 
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/change_my_mind/change_my_mind.md)) 
- ([preview](change_my_mind/change_my_mind.md)) 
- ([image](change_my_mind/change_my_mind.jpeg))
+ ([preview](drake/drake_table_detailed.md)) 
 
 **Distracted Boyfriend** - A meme taken where there is a man looking at a random person in the street instead of his girlfriend
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/distracted_boyfriend/distracted_boyfriend.md)) 
