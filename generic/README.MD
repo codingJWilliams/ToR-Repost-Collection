@@ -35,7 +35,7 @@
  ([preview](drake/drake.md)) 
  ([image](drake/drake.jpg))
  
- **Excuse Me What The Fuck** - A meme where distorted picture of Vault Boy, the mascot of Fallout game series, saying "excuse me what the fuck
+**Excuse Me What The Fuck** - A meme where distorted picture of Vault Boy, the mascot of Fallout game series, saying "excuse me what the fuck
  ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/blob/master/generic/excuse_me_what_the_fuck/excuse_me_what_the_fuck.md))
  ([preview](excuse_me_what_the_fuck/excuse_me_what_the_fuck.md))
  ([image](excuse_me_what_the_fuck/excuse_me_what_the_fuck.jpg))
@@ -45,7 +45,7 @@
  ([preview](expanding_brain/expanding_brain.md)) 
  ([image](expanding_brain/expanding_brain.jpeg))
  
- **Expanding Brain (long version)** - Same as Expanding Brain but with 6 rows instead of 4. 
+**Expanding Brain (long version)** - Same as Expanding Brain but with 6 rows instead of 4. 
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/expanding_brain/expanding_brain_long.md)) 
  ([preview](expanding_brain/expanding_brain_long.md)) 
  ([image](expanding_brain/expanding_brain_long.jpg))
@@ -65,6 +65,11 @@
  ([preview](im_in_danger/im_in_danger.md)) 
  ([image](im_in_danger/im_in_danger.jpg))
 
+**Impostor of the Vent** - A meme in which a red Among Us character asks a black Among Us character in a vent for wisdom and gets a response pointing out some truth everyone should know (often something nice towards the reader).
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/impostor_of_the_vent/impostor_of_the_vent.md))
+ ([preview](impostor_of_the_vent/impostor_of_the_vent.md))
+ ([image](impostor_of_the_vent/impostor_of_the_vent.png))
+
 **Patrick not my Wallet**: A meme in which Patrick from Spongebob agrees with some statements and then disagrees with the final one.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/patrick_not_my_wallet/patrick_not_my_wallet.md)) 
  ([preview](patrick_not_my_wallet/patrick_not_my_wallet.md)) 
@@ -80,7 +85,7 @@
  ([preview](reminisce/reminisce.md))
  ([image](reminisce/reminisce.png))
 
- **Roll Safe**: A meme in which a dark skinned person is pointing to their head, generally accompanied by the text "Can't <xyz> if you don't <abc>".
+**Roll Safe**: A meme in which a dark skinned person is pointing to their head, generally accompanied by the text "Can't <xyz> if you don't <abc>".
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/roll_safe/roll_safe.md)) 
  ([preview](roll_safe/roll_safe.md)) 
  ([image](roll_safe/roll_safe.png))
