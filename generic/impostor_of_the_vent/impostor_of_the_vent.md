@@ -4,7 +4,7 @@
 
 **1**
 
-[*There is a red character and a black character from the game Among Us (very simple cartoon spacemen). The red one is being viewed from the back-right facing twoard black (away from the camera). The black one is sticking his head out of a vent in the floor and facing toward red/the camera.*]
+[*There is a red character and a black character from the game Among Us (very simple cartoon spacemen). The red one is being viewed from the back-right facing toward black (away from the camera). The black one is sticking his head out of a vent in the floor and facing toward red/the camera.*]
 
 **Red**: O impostor of the vent, What is your wisdom?
 
