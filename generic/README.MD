@@ -15,25 +15,25 @@
  ([preview](blue_button_rush/blue_button_rush.md)) 
  ([image](blue_button_rush/blue_button_rush.jpg))
 
-**Complex Mathematics** - A meme in which a lady is looking around doing complex mathematics.
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/complex_mathematics/complex_mathematics.md)) 
- ([preview](complex_mathematics/complex_mathematics.md)) 
- ([image](complex_mathematics/complex_mathematics.jpg))
-
-**Drakeposting** - A 2-column 2-row image. In the left two squares are 'Drake', a musician, in different states of how happy he is. 
-([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/drake/drake_table_detailed.md)) 
- ([preview](drake/drake.md)) 
- ([image](drake/drake.jpg))
-
 **Change my Mind** - A parody image of the youtube series "Change My Mind" by [Steven Crowder](https://www.youtube.com/channel/UCIveFvW-ARp_B_RckhweNJw). It usually has a socially controvertial statement on the top half of the table and the words "Change my mind" on the bottom. 
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/change_my_mind/change_my_mind.md)) 
  ([preview](change_my_mind/change_my_mind.md)) 
  ([image](change_my_mind/change_my_mind.jpeg))
 
+**Complex Mathematics** - A meme in which a lady is looking around doing complex mathematics.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/complex_mathematics/complex_mathematics.md)) 
+ ([preview](complex_mathematics/complex_mathematics.md)) 
+ ([image](complex_mathematics/complex_mathematics.jpg))
+
 **Distracted Boyfriend** - A meme taken where there is a man looking at a random person in the street instead of his girlfriend
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/distracted_boyfriend/distracted_boyfriend.md)) 
  ([preview](distracted_boyfriend/distracted_boyfriend.md)) 
  ([image](distracted_boyfriend/distracted_boyfriend.png))
+ 
+**Drakeposting** - A 2-column 2-row image. In the left two squares are 'Drake', a musician, in different states of how happy he is. 
+ ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/drake/drake_table_detailed.md)) 
+ ([preview](drake/drake.md)) 
+ ([image](drake/drake.jpg))
  
  **Excuse Me What The Fuck** - A meme where distorted picture of Vault Boy, the mascot of Fallout game series, saying "excuse me what the fuck
  ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/blob/master/generic/excuse_me_what_the_fuck/excuse_me_what_the_fuck.md))
@@ -49,22 +49,21 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/expanding_brain/expanding_brain_long.md)) 
  ([preview](expanding_brain/expanding_brain_long.md)) 
  ([image](expanding_brain/expanding_brain_long.jpg))
-
-**I'm in danger** - A meme in which Ralph from The Simpsons is sitting in the back of a bus saying I'm in danger 
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/im_in_danger/im_in_danger.md)) 
- ([preview](im_in_danger/im_in_danger.md)) 
- ([image](im_in_danger/im_in_danger.jpg))
-
+ 
+**Gru Flipchart** - A meme taken from the movie series "Despicable Me". Gru presents from a flipchart that has been modified by his children. The first 2 slides normally contain a normal process, like "I start a project", "I copy the example code". The last 2 whiteboards generally contain the same text, and are an unexpected side-effect, such as "It fails to compile" 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/gru_flipchart/gru_flipchart.md)) 
+ ([preview](gru_flipchart/gru_flipchart.md)) 
+ ([image](gru_flipchart/gru_flipchart.jpg))
+ 
 **Hard to swallow pills** - A two panel comic, labelling a hard to swallow pill
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/hard_to_swallow_pills/hard_to_swallow_pills.md)) 
  ([preview](hard_to_swallow_pills/hard_to_swallow_pills.md)) 
  ([image](hard_to_swallow_pills/hard_to_swallow_pills.png))
 
-
-**Gru Flipchart** - A meme taken from the movie series "Despicable Me". Gru presents from a flipchart that has been modified by his children. The first 2 slides normally contain a normal process, like "I start a project", "I copy the example code". The last 2 whiteboards generally contain the same text, and are an unexpected side-effect, such as "It fails to compile" 
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/gru_flipchart/gru_flipchart.md)) 
- ([preview](gru_flipchart/gru_flipchart.md)) 
- ([image](gru_flipchart/gru_flipchart.jpg))
+**I'm in danger** - A meme in which Ralph from The Simpsons is sitting in the back of a bus saying I'm in danger 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/im_in_danger/im_in_danger.md)) 
+ ([preview](im_in_danger/im_in_danger.md)) 
+ ([image](im_in_danger/im_in_danger.jpg))
 
 **Patrick not my Wallet**: A meme in which Patrick from Spongebob agrees with some statements and then disagrees with the final one.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/patrick_not_my_wallet/patrick_not_my_wallet.md)) 
@@ -86,15 +85,15 @@
  ([preview](roll_safe/roll_safe.md)) 
  ([image](roll_safe/roll_safe.png))
 
-**Steve Harvey Regret**: A meme in which two images of Steve Harvey are overlaid on each other, laughing and contemplating past decisions.
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/steve_harvey_regret/steve_harvey_regret.md)) 
- ([preview](steve_harvey_regret/steve_harvey_regret.md)) 
- ([image](steve_harvey_regret/steve_harvey_regret.jpg))
-
 **See, nobody cares**: A Jurrasic park meme in which the second panel is 'see, nobody cares'.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/see_nobody_cares/see_nobody_cares.md)) 
  ([preview](see_nobody_cares/see_nobody_cares.md)) 
  ([image](see_nobody_cares/see_nobody_cares.jpg))
+
+**Steve Harvey Regret**: A meme in which two images of Steve Harvey are overlaid on each other, laughing and contemplating past decisions.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/steve_harvey_regret/steve_harvey_regret.md)) 
+ ([preview](steve_harvey_regret/steve_harvey_regret.md)) 
+ ([image](steve_harvey_regret/steve_harvey_regret.jpg))
 
 **Teutal Argument**: A comic in which Paul Jr fights with Sr. This involves a chair being thrown.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/teutul_argument/teutul_argument.md)) 
