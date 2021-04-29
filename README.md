@@ -1,3 +1,7 @@
+# REPOSITORY MOVED  
+See [MurdoMaclachlan/ToR-Repost-Collection](https://github.com/MurdoMaclachlan/ToR-Repost-Collection)
+
+
 # Templates for [Transcribers of Reddit](https://reddit.com/r/transcribersofreddit)
 
 ### An ***unofficial*** repository of templates collated by volunteers for transcribing reddit posts. 
