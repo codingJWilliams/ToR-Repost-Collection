@@ -120,4 +120,9 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/why_would_they_do_this/why_would_they_do_this.md)) 
  ([preview](why_would_they_do_this/why_would_they_do_this.md)) 
  ([image](why_would_they_do_this/why_would_they_do_this.jpg))
+ 
+ **Subreddit travel**: A four panel comic with two people trying to figure out what subreddit they travelled to.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/sub_travel/sub_travel.md)) 
+ ([preview](sub_travel/sub_travel.md)) 
+ ([image](sub_travel/sub_travel.png))
 
